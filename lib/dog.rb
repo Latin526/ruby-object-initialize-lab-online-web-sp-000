@@ -19,3 +19,6 @@ end
 
 lassie = Dog.new ("Mutt")
 lassie.name = "lassie"
+
+lassie.name
+lassie.breed
